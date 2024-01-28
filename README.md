@@ -31,16 +31,12 @@
 <br>
 <br>
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBarretoGodoi&show_icons=true&theme=tokyonight&count_private=true)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBarretoGodoi&show_icons=true&theme=aura&count_private=true)
+<img width="44%" height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBarretoGodoi&layout=compact&hide_border=true&title_color=8A2BE2&text_color=778899&bg_color=0000" />
 
+<br>
+<br>
 
-
-
-
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2C&size=30&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2C&size=30&center=true&width=1000&lines=See+you+later.)](https://git.io/typing-svg)
 
 <img width=300% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer"/>
