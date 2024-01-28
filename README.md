@@ -1,42 +1,46 @@
-# Olá! 👋 Sou Arthur 😀
-Bem-vindo ao meu perfil do GitHub! Sou um apaixonado por desenvolvimento de software e estou sempre buscando aprender e compartilhar conhecimento. Aqui você encontrará uma visão geral dos meus projetos e contribuições.
+<img width=300% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header"/>
 
-## Sobre mim
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ArthurBarretoGodoi&color=blue" alt="Profile views" /> </p>
 
-- 🌱 Atualmente estou aprendendo [insira o que você está estudando atualmente]
-- 💼 Trabalho como [insira sua ocupação atual]
-- 🎓 Tenho formação em [insira sua área de formação acadêmica]
-- ⚡ Curiosidade: [insira uma curiosidade interessante sobre você]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?Code&pause=1000&color=8A2BE2C&size=30&center=true&width=1000&lines=Welcome+everyone+;My+name+is+Arthur,+computer+science+student+at+UFPR)](https://git.io/typing-svg)
 
-## Principais áreas de interesse
 
-- Desenvolvimento de software
-- Inteligência Artificial
-- Ciência de Dados
-- Segurança da Informação
+# 👨‍💻 About Me
+- Hello, my name is Arthur, I have a great interest in technology and programming, trying to improve every day. I study computer science at Universidade Federal do Paraná (UFPR) with a focus on C language and Back-End.
+<br>
 
-## Projetos destacados
+# 💻 My interests
+- Back-End Development
+- Front-End Development
+- DevOps
+- Artificial Inteligent
+<br>
 
-Aqui estão alguns dos meus projetos mais relevantes. Sinta-se à vontade para explorar e fornecer feedback:
+# 🛠 Tech Stack
+<div style="display: inline_block">
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div><br/>
 
-- [Projeto 1](link_para_o_projeto_1): Breve descrição do projeto.
-- [Projeto 2](link_para_o_projeto_2): Breve descrição do projeto.
-- [Projeto 3](link_para_o_projeto_3): Breve descrição do projeto.
+# 📱 Contact
+-  Feel free to message me on my linkedIn profile if you have any questions or collaboration proposals <br> <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-barreto-godoi-23a67125b/)
+<br>
+<br>
 
-## Contribuições
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBarretoGodoi&show_icons=true&theme=tokyonight&count_private=true)
 
-Além dos meus próprios projetos, também contribuo para outros repositórios. Aqui estão algumas das minhas contribuições recentes:
 
-- [Contribuição 1](link_para_a_contribuicao_1): Breve descrição da contribuição.
-- [Contribuição 2](link_para_a_contribuicao_2): Breve descrição da contribuição.
-- [Contribuição 3](link_para_a_contribuicao_3): Breve descrição da contribuição.
 
-## Contato
 
-Você pode me encontrar em outros lugares da web:
 
-- LinkedIn: [Seu Perfil do LinkedIn](link_para_o_linkedin)
-- Twitter: [@SeuTwitter](link_para_o_perfil_do_twitter)
 
-Fique à vontade para entrar em contato se tiver alguma pergunta, sugestão ou apenas para dizer olá!
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2C&size=30&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
+
+<img width=300% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer"/>
