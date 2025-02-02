@@ -31,7 +31,7 @@
 <br>
 <br>
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBarretoGodoi&show_icons=true&theme=aura&count_private=true)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBGodoi&show_icons=true&theme=aura&count_private=true)
 <img width="44%" height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBarretoGodoi&layout=compact&hide_border=true&title_color=8A2BE2&text_color=778899&bg_color=0000" />
 
 <br>
