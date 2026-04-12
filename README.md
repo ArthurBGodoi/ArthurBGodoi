@@ -33,6 +33,16 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+
+  <br> <br>
+
+# 📊 Arthur GitHub Stats:
+<div align="center">
+  <img 
+    src="https://github-readme-stats-seven-kohl-22.vercel.app/api?username=ArthurBGodoi&theme=tokyonight&show_icons=true" 
+    height="180px"
+  />
+</div>
   
 </div><br/>
 
