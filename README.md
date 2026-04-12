@@ -39,7 +39,7 @@
 # 📊 Arthur GitHub Stats:
 <div align="center">
   <img 
-    src="https://github-readme-stats-seven-kohl-22.vercel.app/api?username=ArthurBGodoi&theme=tokyonight&show_icons=true" 
+    src="https://github-readme-stats-seven-kohl-22.vercel.app/api?username=ArthurBGodoi&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" 
     height="180px"
   />
 </div>
