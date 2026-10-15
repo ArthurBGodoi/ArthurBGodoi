@@ -35,15 +35,7 @@
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   
 
-  <br> <br>
-
-# 📊 Arthur Github Stats:
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurBGodoi&theme=tokyonight&show_icons=true&include_all_commits=true" 
-    height="180px"
-  />
-</div>
+  <br>
   
 </div><br/>
 
